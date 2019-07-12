@@ -176,6 +176,7 @@ i {
 .rules{
 text-align: center;
 position:static;
+ 
  left:auto;
   right:auto;
   margin: 0;
